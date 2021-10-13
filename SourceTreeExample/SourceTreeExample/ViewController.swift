@@ -13,6 +13,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        // some changes 1
+        // или тут будет конфликт
     }
 }
